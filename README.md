@@ -1,2 +1,2 @@
 # Week2Challenges
-My solutionsfrom the second week of the coursera course on python :)
+My solutions from the second week of the coursera course on python :)
